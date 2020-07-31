@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.93bb18a183052ed60f83ddf197a0702e.js"
+  "/precache-manifest.6131f018f8bce129e16166e208ef8e41.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "trella"});
